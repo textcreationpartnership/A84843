@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent from a private gentleman to a friend in London, in justification of his owne adhereing to His Majestie in these times of distraction: with arguments induceing him thereunto, both from the law of God and man.</title>
+            <author>Private gentleman.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84843</idno><idno type="EEBO-CITATION">99871880</idno>
+  <idno type="VID">156249</idno>
+  <idno type="EEBO-PROQUEST">2240940287</idno>
+  
+            <idno type="STC">Wing F1A</idno>
+            <idno type="STC">Thomason E128_24</idno>
+            <idno type="STC">ESTC R22986</idno>
+            <idno type="PROQUEST">99871880</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871880e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84843)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156249)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E128[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent from a private gentleman to a friend in London, in justification of his owne adhereing to His Majestie in these times of distraction: with arguments induceing him thereunto, both from the law of God and man.</title>
+                  <author>Private gentleman.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for V. N.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Ann. Dom. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first edition is signed "F", cf. Madan II 1285, Oxford books.</note>
+                  <note>Annotation on Thomason copy: "November 28th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156249:1"/>
+            <p> A LETTER sent FROM A PRIVATE GENTLEMAN TO A FRIEND IN <hi>LONDON,</hi> In justification of his owne adhereing to His MAjESTIE in these times of Distraction: <hi>With</hi> Arguments induceing him thereunto, both from the Law of GOD and Man.</p>
+            <p>Printed for <hi>V. N. Ann. Dom.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:156249:2"/>
+            <head>A LETTER OF LOYALTY, with Arguments inducing thereun<g ref="char:EOLhyphen"/>to, from the Lawes of God and Man.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have receiv'd your Letter, and the Newes you sent mee; though I have either seene or heard it all before, yet I give you many thanks for it. I would that either there were lesse newes, or better stirring. In your last letter I received nothing but chiding invectives. I wish you to examine your selfe how farre the profession of so much faith (as those of your opinion are full of) can stand with so little charity, as their censoriousnesse of others expresse. I know charity is the touch-stone of faith. And the Apostle tells me, <hi>Love thinketh no evill,</hi> unlesse it be sufficiently proved. For my part I judge no man, I leave every one to himselfe to stand or fall. I may be seriously sorry for some, but I will peremptorily censure none. It shall be my indeavour to settle mine owne conscience; and to that end I shall impartially embrace all opportunities, that may either con<g ref="char:EOLhyphen"/>vince my conscience if corrupt, or confirme it if upright: and this taske being accomplished, I shall march on with comfort and cheer<g ref="char:EOLhyphen"/>fulnesse (though thorough the sharpest thicket of disgraces and re<g ref="char:EOLhyphen"/>proach) to that period which my conscience shall point me to. And the name of a Parliament without the true subsistence of it will no more awe me, then the naked stile of a King left my Soveraign with<g ref="char:EOLhyphen"/>out due honour attending it can please him. Venerable I confesse is the name of a Parliament but that is where the nature accompanieth
+<pb n="3" facs="tcp:156249:2"/> it; for otherwise it is but an empty shadow without a body: And I would willingly be satisfied, whether the place where the Parliament sits, or the persons sitting in that place be the essentiall part of a true Parliament. I conceive certainly that not the place, but the persons make the Parliament; and then to admit the King no part of it (which cannot with truth be admitted;) the truest definition of a Parliament I can frame to my selfe is, that it is <hi>A company or assembly of select per<g ref="char:EOLhyphen"/>sons, ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sen by the free votes of the Freeholders of each County, &amp; Free<g ref="char:EOLhyphen"/>men of each Borough, (warranted to make such election by the Kings especiall Writ) and by them intrusted to represent the affections, and act the duties of them who so chose them.</hi> This I thinke being not to be denied for truth, it will follow that all this elect body must agree in one; or else the majority of voyces agreeing must carry it, and ob<g ref="char:EOLhyphen"/>lige the minority disagreeing. This being also I thinke unquestiona<g ref="char:EOLhyphen"/>ble, I see not why majority of number, both of the House of Peeres and Commons, who by their attendance on, and obedience to the King, together with the removall of themselves for the minority residing behinde expresse their votes, their resolves what they are; ought not rather in the true nature, and fundamentall essence of the thing, be honoured, knowne, and meant by the stile of Parliament, the great Councell of the King, and the representative body of the King<g ref="char:EOLhyphen"/>dome; then that minor part so much cryed up, and doted on by the Idolatrizers thereof. And if there may be any colour to deny this premise: yet I see no shift to avoide this consequent, but that it will be an inevitable conclusion, That if the maiority of number of Peeres, and Parliament men which now adhere to the King may erre and be malignant, that then certainly the Votes of the majority of the representative body of the Kingdome may be erroneous, and so con<g ref="char:EOLhyphen"/>sequently ought not to obliege. And if the maiority of voyces may, much more may the minority fall into this unhappinesse to be lyable to errors, and therefore can lesse claime obedience as a due unto them. If it be finally the residing alone in <hi>Westminster</hi> that gives them their infallibility, I see not but the Popes chaire may give as good right, and make as iust a claime to that priviledge. But the much experience of many former Parliaments kept in severall places of this Kingdome e<g ref="char:EOLhyphen"/>videnceth sufficiently, that no such Prerogative is by nature of Parlia<g ref="char:EOLhyphen"/>ment entayled upon <hi>Westminster.</hi>
+            </p>
+            <p>Consider secondly, that these men are chosen but by Subiects, and therefore are but to represent the affections, and act the duties of Sub<g ref="char:EOLhyphen"/>jects;
+<pb n="4" facs="tcp:156249:3"/> and are indeed but the representative body of Subjects: and how can it stand then with this condition, that they should impose a law, command, or rule upon their Soveraigne? if they will tran<g ref="char:EOLhyphen"/>scend this condition, they breake the limits of all such trust as either was, or could be conferred upon them: For the Subjects that chose them, had not that power of commanding their Soveraigne in them<g ref="char:EOLhyphen"/>selves, to conferre upon them. And <hi>Nilil dat quod non habet.</hi>
+            </p>
+            <p>Thirdly, we know by the fundamentall constitution of Parlia<g ref="char:EOLhyphen"/>ments, the King hath in himselfe the power to dissolve them; much more hath he the power in himselfe to deny any thing propounded by them: for the power of dissolving is greater then of denying. Now that he hath in himselfe the power of dissolving, the very Act of continuance of this Parliament is a sufficient proofe, which o<g ref="char:EOLhyphen"/>therwise had beene idle, and the passing it by Act had beene in the Parliament-men a betraying of the trust reposed in them, and of their own Priviledges, had they had the power of continuance in them<g ref="char:EOLhyphen"/>selves, without the Kings assent. Now if this Act of continuance pas<g ref="char:EOLhyphen"/>sed by the King was an Act of favour, grace, and trust, let them take heed that it be not abused by them against the King, and so free him before God and man from all blame in the using all possible meanes, at least lawfull meanes to reassume that power and trust into his own hands, which being but lent out hath bin so mis-imployed against him. For certainly if I convey my estate in trust to any friend, to the use and behoofe of me and mine, and the person so trusted falsifie the faith so reposed in him, by converting the profits and benefit of my estate to sinister ends, to the prejudice of me and mine, no man will thinke it unlawfull for me, if it be possible, to annihilate such deed of trust.</p>
+            <p>Now if the King have fundamentally in himselfe the power of de<g ref="char:EOLhyphen"/>nying such things as shall be propounded by them to him, it follow<g ref="char:EOLhyphen"/>eth that their Votes without his Majesties assent to them are not binding nor exact obedience unto them: and so all these high Votes of the Houses fall to the ground as invalid.</p>
+            <p>Lastly, adde hereunto that the King must needes be reputed part of the Parliament, which by supposition was in the beginning waved, but a thing alwayes to be acknowledged for truth; then if the Par<g ref="char:EOLhyphen"/>liament without the King make the representative body, the King is the reall head to that body of the Kingdom; and it were as absurd as monstrous to exclude the head from acting any thing that should ge<g ref="char:EOLhyphen"/>nerally
+<pb n="5" facs="tcp:156249:3"/> concerne the body, since from the head the spirits are derived, which give both sence and motion to the whole body; and that bo<g ref="char:EOLhyphen"/>dy which will separate it selfe from the head, may please it selfe with the fancy of independency; but the conclusion will leave it a dead, uselesse, and neglected trunke.</p>
+            <p>And thus in briefe have I shewed you that these Votes and Orders which thunder out so much power and terror cannot properly accor<g ref="char:EOLhyphen"/>ding to the fundamentall constitution of Parliament be said to be Acted, Voted, or Ordered by Parliament, that name being due unto them, neither <hi>à major,</hi> nor <hi>à meliore parte:</hi> And therefore that by the fundamentall Law of this Kingdome I conceive my selfe dis-obliged from any obedience or submission to them.</p>
+            <p>Thus to prove that by humane Law I am not tyed to obey; now that by conscience I am tied not to obey these Votes and Orders of the pretended Parliament, which are to the opposition or disobedience of his Majesty Kings we know are Gods annointed, &amp; therefore sacred and not to be toucht with rude hands; though their demeanour in government be never so wicked, never so unjust, yet the divine cha<g ref="char:EOLhyphen"/>racter of authority enstamped upon them giveth the man inviolable immunity from humane hands. Hence it was that <hi>David</hi> though him<g ref="char:EOLhyphen"/>selfe anointed also by Gods appointment in the roome of <hi>Saul</hi> durst not injure <hi>Saul,</hi> but his heart smote him for the renting but the lap of <hi>Sauls</hi> garment, when God had delivered <hi>Saul</hi> into <hi>Davids</hi> hands. And shall we applaud our selves without remorse of conscience, when we lay violent hands upon the fairest jewell of the Crowne of our Lords annointed, when we plucke the fairest flower of his garland from his head? Was <hi>Saul</hi> more sacred, more holy, more virtuous, then our CHARLES? Or have we more liberty, more priviledge, to disobey, to disrobe Kings of their honour then the Iewes had? or hath this Parliament a more wise and understanding heart, a more sincere zeale to reformation, a more sacred and divine calling then <hi>David</hi> had? <hi>O then be wise yee sonnes of men, be learned yee that take upon you to judge the Earth, lest the King of Kings laugh at your folly, and crush you in pieces with a rod of Iron.</hi> O let it be a badge of Antichri<g ref="char:EOLhyphen"/>stianity, of that man of sinne; and odious let it be to all true zelots to <hi>exalt themselvs against all that is called God.</hi> Let us feare to sepa<g ref="char:EOLhyphen"/>rate that which God hath conjoyned. Hath not he taught both in the Old and New Testament to <hi>Feare God; and honour the King?</hi> and shall we now imagine that the dishonouring the King must be the
+<pb n="6" facs="tcp:156249:4"/> cheife evidence of our fearing of God? God forbid. Let us know <hi>Re<g ref="char:EOLhyphen"/>bellion is as the sinne of witchcraft,</hi> most odious to God, most be witch<g ref="char:EOLhyphen"/>ing and enticing in it selfe. Shall we wonder it should appeare maske with religion, and usherd in with pretence of reformation? Behold the father of it the Devill, when he would have tempted our Saviour to rebellion against his father, God the father came with <hi>Scriptum est</hi> for a preface; though he knew his mischievous designe of heart could not lye hid from the all-seeing eyes of our Lord. How did <hi>Absalom</hi> court the hearts of the Israelites, when he was in hatching his odious rebellion against his father? was it not with pretence of reformation, saying, <hi>Behold thy matter is good and just, but there is none deputed of the King to heare it. Oh that I were made Governour over this Land, how would I doe justice to all that came unto me.</hi> And shall this policy of dazeling our purblind mortall eyes seeme now strange unto us? Nay certainly, were not the face of all these pre<g ref="char:EOLhyphen"/>sent distempers maskt with a pretence of Reformation, and vizarded with a seeming hatred of Superstition, though ayming at more hor<g ref="char:EOLhyphen"/>rid intentions, how could we so soon have lost and torne the unity of the faith, from <hi>the bond of peace?</hi> Do we not all beleeve in one God, worship one Trinity, rely upon one Mediator, acknowledge one way to Heaven? And shall the garbe and apparell wherein we make this voyage, the gesture whereby we worship this God, the dialect wherein we pray to this Mediatour, set us at a greater distance of af<g ref="char:EOLhyphen"/>fections, then if we were Pagans, Turkes, and Infidels? Doth God more delight in contentions about Ceremonies, Gestures, Words, then in the peace of his Church? or shall the wearing of a Surplice, signe<g ref="char:EOLhyphen"/>ing with a Crosse, bowing of a knee, be able to divorce Christ from his Spouse? God forbid. <hi>Oh then I charge y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u yee Daughters of Ierusalem, and you that wish well unto Sion, by the Roes and by the Hindes of the forrest, that yee awake not this his Spouse, this his Belo<g ref="char:EOLhyphen"/>ved, untill she please.</hi> Oh let us not like the Dog in <hi>Esopes</hi> fables, quarrell for the shadow, and lose the bone where the marrow is. While we seeke to purifie the Ceremony, let not the substance perish. While we would settle the Church, let us not cut the throat of the State, which is the guard of the Church. Who will powre a vessell of pure wine on the floore, because the outside of the caske is not eye pleasing? Or cast away a boxe of rich Jewels, because the Cabinet wherein they are, suites not his fancie. <hi>Oh then let us binde up the breaches of Sion, lest the cloud depart from betweene the</hi>
+               <pb n="7" facs="tcp:156249:4"/>
+               <hi>Cherubines, and the Arke fall into the hands of the uncircumcised.</hi> Let the Magistrate settle the garbe of Religion, even Kings, for they are <hi>Custodes utriusque ta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulae,</hi> and let it be Religion to obey those Magi<g ref="char:EOLhyphen"/>strates: God hath not given them the sword in vaine, and let not us feele the power thereof by suffering due punishment for our disobe<g ref="char:EOLhyphen"/>dience. Thus shall we make Christ our example, who yeelded him<g ref="char:EOLhyphen"/>selfe under <hi>Pilate,</hi> when he could have called for legions of Angels to have rescued him, but he acknowledgeth even that power of <hi>Pi<g ref="char:EOLhyphen"/>late</hi> so uniustly used to be given him from above, and submitted unto it. Thus shall we follow Christs precept to <hi>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter,</hi> when he resisted authority, <hi>Put up thy sword, for they that strike with the sword shall perish by the sword.</hi> Thus shall we tread the steps of our Fore<g ref="char:EOLhyphen"/>fathers, the Apostles, and Fathers in the Primitive Church, who chose rather to glorifie their faith by suffering under, then resisting against the power of Magistracy, though tyrannicall. And if an An<g ref="char:EOLhyphen"/>gell from Heaven (as you thinke) teach you any doctrine contrary to this of Christs, and his Apostles, let him be an <hi>Anathema</hi> and <hi>accur<g ref="char:EOLhyphen"/>sed.</hi> It is not the height of your zeale, if not guided with know<g ref="char:EOLhyphen"/>ledge, can excuse us, for then the Iewes might have had a faire plea for their crucifying of Christ; the Apostle testifying they did it through ignorance: And yet we see what a curse hath dog'd them and their posterity to this day.</p>
+            <p>Now it thus appearing that Christianity admits not a resisting de<g ref="char:EOLhyphen"/>fensive force in subjects against their Soveraigne, though never so much abusing their power, that the policie of our State, and the fun<g ref="char:EOLhyphen"/>damentall constitution of our Kingdome admits not the stile of Par<g ref="char:EOLhyphen"/>liament in truth to be given to the founders of these Votes and Or<g ref="char:EOLhyphen"/>ders, under colour whereof men presume to take Armes against their Soveraigne, and his commands.</p>
+            <p>And it being a thing knowne to all the world, that his Maiesty hath given abundant satisfaction for the past unhappy accidents in his go<g ref="char:EOLhyphen"/>vernment; and so solemnly protested for the future to be guided by the known Lawes of the Land, and to defend the truth of Religion, the Liberty of the Subject, and the Priviledges of Parliament. What shall any man plead for himselfe at the high tribunall of the Almighty, that shall dare to take weapon in hand against his annointed? let him flatter himselfe how he please with his zeale, doate as he will upon his imaginary fancie of a Parliaments, thinke his infidelity in and to his Prince an argument of his faith to God; yet miserable will his end be,
+<pb n="8" facs="tcp:156249:5"/> who shall perish in such an attempt, and into the congregation of them let not my soule come.</p>
+            <p>But that I may the more freely commit you to the peace of God, let me either have the hap to satisfie you, or the liberty to expresse that which satisfieth me, that these grand pretenders to the good of the Kingdome, are not such as seeke the peace of either State or Church and consequently have no share in the peace of God, and therfore those that will share therein, must not have their portion with them. O how easie had it bin for them, had they sought the peace of this State, to have condiscended to his Majesties gracious proposition of a Parliamentary judicature in other severall places, wherto he was con<g ref="char:EOLhyphen"/>tented to refer himself. Thus had the honor of a Parliament bin preser<g ref="char:EOLhyphen"/>ved; thus might the peace of the Kingdom have bin continued, thus the distractions of the religion setled. But what was the reason, what could be the allegation why his Majesty might not have had satisfa<g ref="char:EOLhyphen"/>ction herein? nothing that I have either heard or can imagine, but that they could not without hazzard to their persons remove any whither else as they supposed. Well admit it; which yet I thinke (had they no guilty consciences to affright themselves withall) there was no just cause to feare; these persons we see who for their own security would not embrace a hopefull proposition of peace, will hazzard their own persons freely in a civill warre; if their lives were all the hazzard, or by their deaths the Kingdom were endangered, is not the same on all sides as much hazzarded and with more probability to be irrecove<g ref="char:EOLhyphen"/>rable by the imployment of a civill Warre, then by an indifferent condiscention of another place to have met the King in a Parliamenta<g ref="char:EOLhyphen"/>ry way. O then let the mist be taken from our eyes, and let us discerne, whether these be peace makers or no, or whether they tread the steps of peace, take heed lest though their words be smooth as oyle, yet their throat prove not an open sepulchre: and if they perish in their own obstinacie, yet let us not be involved in the same sinne, Let us seeke peace and ensue it, and so the God of peace will be with us; which shall ever be the prayer of</p>
+            <closer>
+               <signed>Your loving friend</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
